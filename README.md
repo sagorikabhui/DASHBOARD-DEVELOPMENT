@@ -120,3 +120,8 @@ Gender differences were notable, especially in math and writing.
 This task showcased the power of data visualization in storytelling and data-driven decision-making. By creating interactive and insightful visuals in Tableau, we converted raw student data into meaningful educational insights. These visuals can serve as effective tools for academic planning, curriculum adjustments, and personalized student support.
 
 This project also builds strong foundational skills in Tableau, making it a valuable addition to any aspiring data analyst or data scientist’s portfolio.
+
+
+*OUTPUT*:
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c8c95cf2-93cf-4821-9a2d-bd531d2017c6" />
